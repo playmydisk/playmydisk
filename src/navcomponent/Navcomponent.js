@@ -1,7 +1,14 @@
+import React from "react";
+import { appendHelloWorld } from "./content";
+
 function Nav() {
+  React.useEffect(() => {
+    appendHelloWorld();
+  }, []);
+
   return (
     <header>
-      <h4>Hello Iam from from Nav!!</h4>
+      <p id="p1"></p>
     </header>
   );
 }
