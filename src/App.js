@@ -1,10 +1,11 @@
 import "./App.css";
+import Nav from "./navcomponent/Navcomponent";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>This is play my disk Hello world</p>
+    <div>
+      <header>
+        <Nav />
       </header>
     </div>
   );
