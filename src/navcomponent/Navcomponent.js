@@ -1,5 +1,6 @@
 import React from "react";
 import { appendHelloWorld } from "./content";
+import Button from "react-bootstrap/Button";
 
 function Nav() {
   React.useEffect(() => {
@@ -7,9 +8,14 @@ function Nav() {
   }, []);
 
   return (
-    <header>
-      <p id="p1"></p>
-    </header>
+    <>
+      <header>
+        <div>
+          <Button variant="primary" id="p1"></Button>
+        </div>
+      </header>
+      <div>hello</div>
+    </>
   );
 }
 

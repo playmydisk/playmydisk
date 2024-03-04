@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 function appendHelloWorld() {
-  const element = "Hello";
+  const element = "hel";
   document.getElementById("p1").innerHTML = element;
 }
 
