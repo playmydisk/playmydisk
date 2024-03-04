@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/playmydisk/static/css/main.e6c13ad2.css",
-    "main.js": "/playmydisk/static/js/main.bb34a2b2.js",
+    "main.css": "/playmydisk/static/css/main.ff02f4b5.css",
+    "main.js": "/playmydisk/static/js/main.904ccbdb.js",
     "static/js/453.b0f4dbaa.chunk.js": "/playmydisk/static/js/453.b0f4dbaa.chunk.js",
     "index.html": "/playmydisk/index.html",
-    "main.e6c13ad2.css.map": "/playmydisk/static/css/main.e6c13ad2.css.map",
-    "main.bb34a2b2.js.map": "/playmydisk/static/js/main.bb34a2b2.js.map",
+    "main.ff02f4b5.css.map": "/playmydisk/static/css/main.ff02f4b5.css.map",
+    "main.904ccbdb.js.map": "/playmydisk/static/js/main.904ccbdb.js.map",
     "453.b0f4dbaa.chunk.js.map": "/playmydisk/static/js/453.b0f4dbaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.bb34a2b2.js"
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.904ccbdb.js"
   ]
 }
